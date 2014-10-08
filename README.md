@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-Hi! Humans!
+Hello World
 
-the fallen here, I like Node.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+the fallen here, hopefully I can figure this coding out.
+Seems to be more complex then expected.
